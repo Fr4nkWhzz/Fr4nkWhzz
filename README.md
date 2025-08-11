@@ -1,4 +1,4 @@
-## Hi there 👋
+## Stupid who likes videogames, vtubers, gachas and media, please help.
 
 <!--
 **Fr4nkWhzz/Fr4nkWhzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
