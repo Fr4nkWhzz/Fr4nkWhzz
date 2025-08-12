@@ -16,6 +16,7 @@ Im currently learning Computer Engineering.<br>To be honest, im a begginner so I
 ---
 [![](https://visitcount.itsvg.in/api?id=Fr4nkWhzz&icon=8&color=2)](https://visitcount.itsvg.in)
 
+![image alt](https://github.com/Fr4nkWhzz/Fr4nkWhzz/blob/main/imagen_2025-08-11_224431301.png?raw=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Fr4nkWhzz/Fr4nkWhzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
