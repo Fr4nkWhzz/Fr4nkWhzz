@@ -1,6 +1,6 @@
 ## Stupid who likes videogames, vtubers, gachas and media, please help.
 # 💫 About Me:
-Im currently learning computer engineering.<br>To be honest, im a begginner so i need to learn a lot of things, but im working on that.
+Im currently learning computer engineering.<br>Also trying to learn for myself javascript.<br>To be honest, im a begginner so i need to learn a lot of things, but im working on that.
 
 
 # 💻 Tech Stack:
