@@ -1,6 +1,6 @@
-## Stupid who likes videogames and vtubers, please help.
+## Who's Franco?
 # 🦉 About Me:
-Im currently studying computer engineering.<br>Also trying to learn for myself javascript.<br>To be honest, im a begginner so i need to learn a lot of things, but im working on that.
+Currently studying computer engineering.<br>Also trying to learn for myself a lot of things.
 
 
 # 💻 Tech Stack:
