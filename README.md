@@ -4,7 +4,7 @@ Currently studying computer engineering.<br>Also trying to learn for myself a lo
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 
 ![image alt](https://github.com/Fr4nkWhzz/Fr4nkWhzz/blob/main/imagen_2025-08-11_224431301.png?raw=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
